@@ -1,0 +1,32 @@
+#BlueJ class context
+comment0.target=GameStatus
+comment1.params=initialRoom
+comment1.target=GameStatus(Room)
+comment10.params=
+comment10.target=void\ dropAll()
+comment11.params=
+comment11.target=boolean\ weightUberlauf()
+comment12.params=
+comment12.target=void\ quit()
+comment13.params=
+comment13.target=void\ win()
+comment13.text=\ public\ void\ seenAllRooms(){\n\ \ \ \ \ \ \ \ if\ (visited.size()\=\=12){System.out.println("Congratulations\!\ you've"+\n\ \ \ \ \ \ \ \ \ \ \ \ "seen\ all\ rooms");}\n}
+comment14.params=
+comment14.target=boolean\ isPlaying()
+comment2.params=room
+comment2.target=void\ setLocation(Room)
+comment3.params=
+comment3.target=Room\ getLocation()
+comment4.params=
+comment4.target=boolean\ goBack()
+comment5.params=
+comment5.target=void\ chargeBeamer()
+comment6.params=
+comment6.target=boolean\ fireBeamer()
+comment7.params=
+comment7.target=java.lang.String\ getLocationDescription()
+comment8.params=item
+comment8.target=java.lang.String\ collectItem(Item)
+comment9.params=
+comment9.target=Items\ getItemsCollected()
+numComments=15

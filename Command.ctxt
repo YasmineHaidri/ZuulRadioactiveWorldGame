@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Command
+comment0.text=\n\ This\ class\ is\ part\ of\ the\ "World\ of\ Zuul"\ application.\n\ "World\ of\ Zuul"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\n\n\ As\ in\ the\ original\ version,\ this\ class\ holds\ information\ about\ a\ \n\ command\ that\ was\ issued\ by\ the\ user.\n\ A\ command\ currently\ consists\ of\ two\ strings\:\ a\ command\ word\ and\ a\ second\n\ word\ /\ parameter\ (for\ example,\ if\ the\ command\ was\ "take\ map",\ then\ the\ two\ strings\n\ obviously\ are\ "take"\ and\ "map").\n\n\n
+comment1.params=parameter
+comment1.target=Command(java.lang.String)
+comment2.params=
+comment2.target=boolean\ hasParameter()
+comment3.params=
+comment3.target=java.lang.String\ getParameter()
+comment4.params=gameStatus
+comment4.target=java.lang.String\ process(GameStatus)
+comment4.text=\n\ this\ method\ needs\ to\ be\ overwritten\ by\ each\ subclass\n\ to\ actually\ implement\ the\ command.\n
+numComments=5

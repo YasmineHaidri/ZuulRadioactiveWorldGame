@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Items
+comment1.params=
+comment1.target=Items()
+comment2.params=i
+comment2.target=void\ add(Item)
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment4.params=itemName
+comment4.target=Item\ findItem(java.lang.String)
+comment5.params=item
+comment5.target=void\ removeItem(Item)
+numComments=6
